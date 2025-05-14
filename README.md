@@ -1,4 +1,4 @@
-## Exercise 1: Auditing with Spring Data JPA
+## Exercise 1: Event driven programming
 
 ## Overview
 This is a simple Spring Boot project that demonstrates how to implement **auditing** using **Spring Data JPA**. It manages a list of books and tracks who created or updated each entry using the logged-in user
